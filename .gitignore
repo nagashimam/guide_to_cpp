@@ -1,2 +1,4 @@
 .vscode-server/
 .ash_history
+program
+*.gch
