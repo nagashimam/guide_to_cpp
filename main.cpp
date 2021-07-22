@@ -1,5 +1,12 @@
 #include <iostream>
 
 int main(){
-    std::cout << 2 + "30" << std::endl;
+    int a = 3.14;
+    std::cout << a << std::endl;
+    
+    double b = 3.14;
+    std::cout << b << std::endl;
+    
+    double c = 500;
+    std::cout << c << std::endl;
 }

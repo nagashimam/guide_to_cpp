@@ -4,4 +4,4 @@
 [core]
 	editor = code --wait
 [credential]
-	helper = "!f() { /root/.vscode-server/bin/507ce72a4466fbb27b715c3722558bb15afa9f48/node /tmp/vscode-remote-containers-54b9f9986db793294762ec428b1dabd134f2ffea.js $*; }; f"
+	helper = "!f() { /root/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/node /tmp/vscode-remote-containers-bd2b5da5fe345e7304aaa9a6762e67729cd1e743.js $*; }; f"
